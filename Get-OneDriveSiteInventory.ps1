@@ -70,12 +70,9 @@ function Get-SPOConnection {
     }
 }
 
-
-<#Modify the variables below for your envionment
+#Modify the variables below for your envionment
 Get-SPOConnection -ClientId $ `
     -CertificatePath "<Path to Your Certificate>" `
     -Tenant "<Your tenant name>.onmicrosoft.com" `
     -SPOAdminUrl "https://<Your tenant name>-admin.sharepoint.com" `
     -ReportOutput "c:\temp\OneDriveInventory.csv"
-
-    #>
