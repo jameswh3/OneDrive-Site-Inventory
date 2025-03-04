@@ -1,6 +1,6 @@
 # Overview
 
-This script is provided as a way to inventory SharePoint Online Sites, Webs, Lists, and Items and their permissions
+This script inventories OneDrive sites, collecting information about the site size and last user item modified date to help understand which OneDrive sites are still active.
 
 # Script Reference
 
