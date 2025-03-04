@@ -31,4 +31,5 @@ Get-SPOConnection -ClientId "your-client-id" `
     -CertificatePath "path-and-file-name-to-your-certificate.pfx" `
     -Tenant "your-tenant-name.onmicrosoft.com" `
     -SPOAdminUrl "https://your-tenant-name-admin.sharepoint.com" `
-    -ReportOutput "path-and-file-name-to-your-output-csv.csv""
+    -ReportOutput "path-and-file-name-to-your-output-csv.csv"
+```
